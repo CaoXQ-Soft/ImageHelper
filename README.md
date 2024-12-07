@@ -7,10 +7,9 @@
 
 
 ## 二、下载地址
-	国际地址：
-	中国大陆：
-		链接地址：https://pan.baidu.com/s/1fFBSVvWpoj-SwhTHuG5orA 
-提取码：bim2
+	国际地址：https://github.com/CaoXQ-Soft/ImageHelper
+	中国大陆：链接地址：https://pan.baidu.com/s/1fFBSVvWpoj-SwhTHuG5orA 
+		 提取码：bim2
 
 ## 三、更新说明（最新为3.0 版本）
 1、新增“水印保护”模块。
